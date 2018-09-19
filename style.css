@@ -11,7 +11,6 @@ html {
 }
 
 form {
-  /*   background: lemonchiffon; */
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -39,9 +38,6 @@ textarea {
   align-content: stretch;
 }
 
-.counter p {
-  /* flex: 1; */
-}
 .counter p {
   text-transform: uppercase;
   font-size: 0.8em;
